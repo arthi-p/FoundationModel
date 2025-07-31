@@ -1,0 +1,452 @@
+{
+	"data": {
+		"disclosuresList": ["gain-loss-app-disclosure"],
+		"accounts": [{
+			"accountId": "47536007",
+			"accountNickName": "Individual",
+			"accountTotalValue": 18793.10,
+			"totalDayChange": -214.42,
+			"totalDayChangePercent": -1.10,
+			"equityPositions": {
+				"positions": [{
+					"quantity": 15.0,
+					"asset": {
+						"description": "CASSAVA SCIENCES INC",
+						"shortName": "CASSAVA SCIENCES INC",
+						"symbol": "SAVA",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 2.1,
+						"dayChange": 0.05,
+						"dayChangePercent": 2.44,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 31.50,
+						"dayChange": 0.75,
+						"dayChangePercent": 2.44,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 459.60,
+						"costPerShare": 30.64,
+						"averageCostPerShare": 30.64,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": -428.10,
+						"percent": -93.15,
+						"averagePerShare": -28.54,
+						"averagePerSharePercent": -93.15,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-54858510-L",
+					"isLongTerm": true,
+					"itemIssueId": "54858510"
+				}, {
+					"quantity": 63.0,
+					"asset": {
+						"description": "KUKE MUSIC HLDG LTD FSPONSORED ADR 1 ADR REPS 10 ORD SHS",
+						"shortName": "KUKE MUSIC HLDG LTD FSPO...",
+						"symbol": "KUKE",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 2.99,
+						"dayChange": 0.03,
+						"dayChangePercent": 1.01,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 188.37,
+						"dayChange": 1.89,
+						"dayChangePercent": 1.01,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 1656.00,
+						"costPerShare": 26.29,
+						"averageCostPerShare": 26.29,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": -1467.63,
+						"percent": -88.62,
+						"averagePerShare": -23.30,
+						"averagePerSharePercent": -88.62,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-88515308-L",
+					"isLongTerm": true,
+					"itemIssueId": "88515308"
+				}, {
+					"quantity": 5.0,
+					"asset": {
+						"description": "NETFLIX INC",
+						"shortName": "NETFLIX INC",
+						"symbol": "NFLX",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 1221.32,
+						"dayChange": -4.03,
+						"dayChangePercent": -0.33,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 6106.60,
+						"dayChange": -20.15,
+						"dayChangePercent": -0.33,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 6102.33,
+						"costPerShare": 1220.47,
+						"averageCostPerShare": 1220.47,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": 4.27,
+						"percent": 0.07,
+						"averagePerShare": 0.85,
+						"averagePerSharePercent": 0.07,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-231673095-L",
+					"isLongTerm": true,
+					"itemIssueId": "231673095"
+				}, {
+					"quantity": 26.0,
+					"asset": {
+						"description": "RIVIAN AUTOMOTIVE INC CLASS A",
+						"shortName": "RIVIAN AUTOMOTIVE INC CL...",
+						"symbol": "RIVN",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 13.444,
+						"dayChange": -0.32,
+						"dayChangePercent": -2.30,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 349.54,
+						"dayChange": -8.22,
+						"dayChangePercent": -2.30,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 454.83,
+						"costPerShare": 17.49,
+						"averageCostPerShare": 17.49,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": -105.29,
+						"percent": -23.15,
+						"averagePerShare": -4.05,
+						"averagePerSharePercent": -23.15,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-76422543-L",
+					"isLongTerm": true,
+					"itemIssueId": "76422543"
+				}, {
+					"quantity": 10.0,
+					"asset": {
+						"description": "TESLA INC",
+						"shortName": "TESLA INC",
+						"symbol": "TSLA",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 317.375,
+						"dayChange": -11.76,
+						"dayChangePercent": -3.57,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 3173.75,
+						"dayChange": -117.55,
+						"dayChangePercent": -3.57,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 3047.30,
+						"costPerShare": 304.73,
+						"averageCostPerShare": 304.73,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": 126.45,
+						"percent": 4.15,
+						"averagePerShare": 12.65,
+						"averagePerSharePercent": 4.15,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-1948561409-L",
+					"isLongTerm": true,
+					"itemIssueId": "1948561409"
+				}, {
+					"quantity": 8.0,
+					"asset": {
+						"description": "TRUMP MEDIA & TECHNO",
+						"shortName": "TRUMP MEDIA & TECHNO",
+						"symbol": "DJT",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 18.555,
+						"dayChange": -0.12,
+						"dayChangePercent": -0.62,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 148.44,
+						"dayChange": -0.92,
+						"dayChangePercent": -0.62,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 336.00,
+						"costPerShare": 42.00,
+						"averageCostPerShare": 42.00,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": -187.56,
+						"percent": -55.82,
+						"averagePerShare": -23.45,
+						"averagePerSharePercent": -55.82,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-72840365-L",
+					"isLongTerm": true,
+					"itemIssueId": "72840365"
+				}],
+				"totals": {
+					"marketValueTotals": {
+						"value": 9998.20,
+						"dayChange": -144.20,
+						"dayChangePercent": -3.37,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 12056.06,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": -2057.86,
+						"blendedPercent": -17.07,
+						"fullyKnown": true
+					}
+				}
+			},
+			"etfPositions": {
+				"positions": [{
+					"quantity": 16.0,
+					"asset": {
+						"description": "VANGUARD S&P 500 ETF",
+						"shortName": "VANGUARD S&P 500 ETF",
+						"symbol": "VOO",
+						"quoteEligible": true
+					},
+					"price": {
+						"value": 549.6815,
+						"dayChange": -4.39,
+						"dayChangePercent": -0.79,
+						"displayCode": 0,
+						"changeDisplayCode": 0
+					},
+					"marketValue": {
+						"value": 8794.90,
+						"dayChange": -70.22,
+						"dayChangePercent": -0.79,
+						"displayCode": 0
+					},
+					"costBasis": {
+						"value": 8656.58,
+						"costPerShare": 541.04,
+						"averageCostPerShare": 541.04,
+						"displayCode": 0,
+						"displayCodeAverageCPS": 0
+					},
+					"gainLoss": {
+						"value": 138.32,
+						"percent": 1.60,
+						"averagePerShare": 8.65,
+						"averagePerSharePercent": 1.60,
+						"displayCodePercent": 0,
+						"displayCodeValue": 0,
+						"displayCodeAPSPercent": 0,
+						"displayCodeAPSValue": 0
+					},
+					"lotRef": "?posId=47536007-2003991281-L",
+					"isLongTerm": true,
+					"itemIssueId": "2003991281"
+				}],
+				"totals": {
+					"marketValueTotals": {
+						"value": 8794.90,
+						"dayChange": -70.22,
+						"dayChangePercent": -0.79,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 8656.58,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": 138.32,
+						"blendedPercent": 1.60,
+						"fullyKnown": true
+					}
+				}
+			},
+			"mutualFundPositions": {
+				"totals": {
+					"marketValueTotals": {
+						"value": 0.0,
+						"dayChange": 0.0,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 0.0,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": 0.0,
+						"fullyKnown": true
+					}
+				}
+			},
+			"optionsPositions": {
+				"totals": {
+					"marketValueTotals": {
+						"value": 0.0,
+						"dayChange": 0.0,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 0.0,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": 0.0,
+						"fullyKnown": true
+					}
+				}
+			},
+			"fixedIncomePositions": {
+				"totals": {
+					"marketValueTotals": {
+						"value": 0.0,
+						"dayChange": 0.0,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 0.0,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": 0.0,
+						"fullyKnown": true
+					}
+				}
+			},
+			"cashPositions": {
+				"positions": [],
+				"totals": {
+					"marketValueTotals": {
+						"value": 545.96,
+						"dayChange": 0.00,
+						"dayChangePercent": 0.00,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 0.00,
+						"costFullyKnown": false
+					},
+					"gainLossTotals": {
+						"blendedValue": 0.0,
+						"blendedPercent": 0.0,
+						"fullyKnown": false,
+						"footNotes": [{
+							"footNoteType": "GainLossNotFullyKnown",
+							"footNoteNumber": "5"
+						}]
+					}
+				}
+			},
+			"otherPositions": {
+				"totals": {
+					"marketValueTotals": {
+						"value": 0.0,
+						"dayChange": 0.0,
+						"fullyKnown": true
+					},
+					"costBasisTotals": {
+						"blendedValue": 0.0,
+						"costFullyKnown": true
+					},
+					"gainLossTotals": {
+						"blendedValue": 0.0,
+						"fullyKnown": true
+					}
+				}
+			},
+			"totals": {
+				"marketValueTotals": {
+					"value": 18793.10,
+					"dayChange": -214.42,
+					"dayChangePercent": -1.10,
+					"fullyKnown": false,
+					"footNotes": []
+				},
+				"costBasisTotals": {
+					"blendedValue": 20712.64,
+					"costFullyKnown": true,
+					"footNotes": []
+				},
+				"gainLossTotals": {
+					"blendedValue": -1919.54,
+					"blendedPercent": -9.27,
+					"fullyKnown": true,
+					"footNotes": []
+				}
+			}
+		}],
+		"updateTS": "\/Date(1750186901042+0000)\/"
+	}
+}

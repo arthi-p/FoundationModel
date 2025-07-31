@@ -1,0 +1,575 @@
+{
+	"data": {
+		"disclosuresList": ["Mobile-App-Brokerage-History-Disclosures"],
+		"hasMore": true,
+		"accountNickname": "Individual",
+		"accountId": "47536007",
+		"accountTotalValue": "$19,337.84",
+		"totalDayChange": -215.64,
+		"totalDayChangePercent": -1.1,
+		"transactions": [{
+			"transactionDate": "06/17/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "06/11/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "$555.62",
+			"symbol": "VOO",
+			"transactionType": "Sell",
+			"quantity": 1.0,
+			"price": "$555.62",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "VANGUARD S&P ...500 ETF",
+				"settleDate": "06/12/25",
+				"securityNumber": "3717923",
+				"cusip": "922908363",
+				"principal": "$555.62",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "06/11/25",
+			"shortDescription": "NETFLIX INC",
+			"transactionAmount": "-$3,682.17",
+			"symbol": "NFLX",
+			"transactionType": "Buy",
+			"quantity": 3.0,
+			"price": "$1,227.39",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "NETFLIX INC",
+				"settleDate": "06/12/25",
+				"securityNumber": "2756124",
+				"cusip": "64110L106",
+				"principal": "-$3,682.17",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "06/11/25",
+			"shortDescription": "APPLE INC",
+			"transactionAmount": "$2,003.10",
+			"symbol": "AAPL",
+			"transactionType": "Sell",
+			"quantity": 10.0,
+			"price": "$200.31",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "APPLE INC",
+				"settleDate": "06/12/25",
+				"securityNumber": "1180932",
+				"cusip": "037833100",
+				"principal": "$2,003.10",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "06/11/25",
+			"shortDescription": "NETFLIX INC",
+			"transactionAmount": "-$2,420.16",
+			"symbol": "NFLX",
+			"transactionType": "Buy",
+			"quantity": 2.0,
+			"price": "$1,210.08",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "NETFLIX INC",
+				"settleDate": "06/12/25",
+				"securityNumber": "2756124",
+				"cusip": "64110L106",
+				"principal": "-$2,420.16",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "06/10/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "06/06/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "-$3,047.30",
+			"symbol": "TSLA",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$304.73",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "06/09/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "-$3,047.30",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "06/03/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "05/29/25",
+			"shortDescription": "SCHWAB1 INT 04/29-05/28",
+			"transactionAmount": "$0.20",
+			"transactionType": "Credit Interest",
+			"longDescription": "SCHWAB1 INT 04/29-05/28"
+		}, {
+			"transactionDate": "05/28/25",
+			"shortDescription": "APPLE INC",
+			"transactionAmount": "-$2,012.25",
+			"symbol": "AAPL",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$201.23",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "APPLE INC",
+				"settleDate": "05/29/25",
+				"securityNumber": "1180932",
+				"cusip": "037833100",
+				"principal": "-$2,012.25",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/27/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "05/21/25",
+			"shortDescription": "NVIDIA CORP",
+			"transactionAmount": "$2,103.22",
+			"symbol": "NVDA",
+			"transactionType": "Sell",
+			"quantity": 16.0,
+			"price": "$131.45",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "NVIDIA CORP",
+				"settleDate": "05/22/25",
+				"securityNumber": "2822980",
+				"cusip": "67066G104",
+				"principal": "$2,103.22",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/21/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "$3,343.20",
+			"symbol": "TSLA",
+			"transactionType": "Sell",
+			"quantity": 10.0,
+			"price": "$334.32",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "05/22/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "$3,343.20",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/21/25",
+			"shortDescription": "ALPHABET INC CLASS A",
+			"transactionAmount": "$2,036.52",
+			"symbol": "GOOGL",
+			"transactionType": "Sell",
+			"quantity": 12.0,
+			"price": "$169.71",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "ALPHABET INC CLASS A",
+				"settleDate": "05/22/25",
+				"securityNumber": "1090068",
+				"cusip": "02079K305",
+				"principal": "$2,036.52",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/20/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "-$544.91",
+			"symbol": "VOO",
+			"transactionType": "Buy",
+			"quantity": 1.0,
+			"price": "$544.91",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "VANGUARD S&P ...500 ETF",
+				"settleDate": "05/21/25",
+				"securityNumber": "3717923",
+				"cusip": "922908363",
+				"principal": "-$544.91",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/20/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "05/13/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "05/09/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "-$3,028.31",
+			"symbol": "TSLA",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$302.83",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "05/12/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "-$3,028.31",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "05/06/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "04/29/25",
+			"shortDescription": "SCHWAB1 INT 03/28-04/28",
+			"transactionAmount": "$0.08",
+			"transactionType": "Credit Interest",
+			"longDescription": "SCHWAB1 INT 03/28-04/28"
+		}, {
+			"transactionDate": "04/29/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "04/28/25",
+			"shortDescription": "ALPHABET INC CLASS A",
+			"transactionAmount": "-$1,606.30",
+			"symbol": "GOOGL",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$160.63",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "ALPHABET INC CLASS A",
+				"settleDate": "04/29/25",
+				"securityNumber": "1090068",
+				"cusip": "02079K305",
+				"principal": "-$1,606.30",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "04/25/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "$5,647.84",
+			"symbol": "TSLA",
+			"transactionType": "Sell",
+			"quantity": 20.0,
+			"price": "$282.40",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "04/28/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "$5,648.00",
+				"commission": "$0.00",
+				"exchangeFee": "$0.16"
+			}
+		}, {
+			"transactionDate": "04/22/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "04/21/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "-$469.88",
+			"symbol": "VOO",
+			"transactionType": "Buy",
+			"quantity": 1.0,
+			"price": "$469.88",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "VANGUARD S&P ...500 ETF",
+				"settleDate": "04/22/25",
+				"securityNumber": "3717923",
+				"cusip": "922908363",
+				"principal": "-$469.88",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "04/15/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "04/09/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "-$2,596.20",
+			"symbol": "TSLA",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$259.62",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "04/10/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "-$2,596.20",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "04/09/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "-$2,536.82",
+			"symbol": "TSLA",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$253.68",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "04/10/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "-$2,536.82",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "04/08/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "04/02/25",
+			"shortDescription": "APPLE INC",
+			"transactionAmount": "$2,235.84",
+			"symbol": "AAPL",
+			"transactionType": "Sell",
+			"quantity": 10.0,
+			"price": "$223.59",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "APPLE INC",
+				"settleDate": "04/03/25",
+				"securityNumber": "1180932",
+				"cusip": "037833100",
+				"principal": "$2,235.90",
+				"commission": "$0.00",
+				"exchangeFee": "$0.06"
+			}
+		}, {
+			"transactionDate": "04/02/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "$2,808.42",
+			"symbol": "TSLA",
+			"transactionType": "Sell",
+			"quantity": 10.0,
+			"price": "$280.85",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "04/03/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "$2,808.50",
+				"commission": "$0.00",
+				"exchangeFee": "$0.08"
+			}
+		}, {
+			"transactionDate": "04/02/25",
+			"shortDescription": "NVIDIA CORP",
+			"transactionAmount": "$0.16",
+			"symbol": "NVDA",
+			"transactionType": "Qualified Dividend",
+			"longDescription": "NVIDIA CORP"
+		}, {
+			"transactionDate": "04/01/25",
+			"shortDescription": "APPLE INC",
+			"transactionAmount": "-$2,225.59",
+			"symbol": "AAPL",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$222.56",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "APPLE INC",
+				"settleDate": "04/02/25",
+				"securityNumber": "1180932",
+				"cusip": "037833100",
+				"principal": "-$2,225.59",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "04/01/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "03/31/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "$27.18",
+			"symbol": "VOO",
+			"transactionType": "Cash Dividend",
+			"longDescription": "VANGUARD S&P ...500 ETF"
+		}, {
+			"transactionDate": "03/28/25",
+			"shortDescription": "SCHWAB1 INT 02/27-03/27",
+			"transactionAmount": "$0.28",
+			"transactionType": "Credit Interest",
+			"longDescription": "SCHWAB1 INT 02/27-03/27"
+		}, {
+			"transactionDate": "03/26/25",
+			"shortDescription": "TESLA INC",
+			"transactionAmount": "-$2,788.09",
+			"symbol": "TSLA",
+			"transactionType": "Buy",
+			"quantity": 10.0,
+			"price": "$278.81",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "TESLA INC",
+				"settleDate": "03/27/25",
+				"securityNumber": "3504394",
+				"cusip": "88160R101",
+				"principal": "-$2,788.09",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "03/25/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "03/18/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "-$515.45",
+			"symbol": "VOO",
+			"transactionType": "Buy",
+			"quantity": 1.0,
+			"price": "$515.45",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "VANGUARD S&P ...500 ETF",
+				"settleDate": "03/19/25",
+				"securityNumber": "3717923",
+				"cusip": "922908363",
+				"principal": "-$515.45",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "03/18/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "03/17/25",
+			"shortDescription": "ALPHABET INC CLASS A",
+			"transactionAmount": "$0.40",
+			"symbol": "GOOGL",
+			"transactionType": "Qualified Dividend",
+			"longDescription": "ALPHABET INC            CLASS                  A"
+		}, {
+			"transactionDate": "03/14/25",
+			"shortDescription": "KUKE MUSIC HLDG LTD FSPO...",
+			"transactionAmount": "$1.58",
+			"symbol": "KUKE",
+			"transactionType": "Cash In Lieu",
+			"longDescription": "KUKE MUSIC HLDG LTD    FSPONSORED ADR           1 ADR REPS   10  ORD SHS"
+		}, {
+			"transactionDate": "03/13/25",
+			"shortDescription": "KUKE MUSIC HLDG LTD FSPO...",
+			"symbol": "KUKE",
+			"transactionType": "Reverse Split",
+			"quantity": 63.0,
+			"longDescription": "KUKE MUSIC HLDG LTD    FSPONSORED ADR           1 ADR REPS   10  ORD SHS"
+		}, {
+			"transactionDate": "03/13/25",
+			"shortDescription": "KUKE MUSIC HLDG LTD SXXX...",
+			"symbol": "501229108",
+			"transactionType": "Reverse Split",
+			"quantity": -639.0,
+			"longDescription": "KUKE MUSIC HLDG LTD SXXXREVERSE SPLIT           EFF: 03/13/25"
+		}, {
+			"transactionDate": "03/11/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "03/04/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}, {
+			"transactionDate": "02/27/25",
+			"shortDescription": "SCHWAB1 INT 01/30-02/26",
+			"transactionAmount": "$0.28",
+			"transactionType": "Credit Interest",
+			"longDescription": "SCHWAB1 INT 01/30-02/26"
+		}, {
+			"transactionDate": "02/26/25",
+			"shortDescription": "VANGUARD S&P ...500 ETF",
+			"transactionAmount": "-$551.29",
+			"symbol": "VOO",
+			"transactionType": "Buy",
+			"quantity": 1.0,
+			"price": "$551.29",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "VANGUARD S&P ...500 ETF",
+				"settleDate": "02/27/25",
+				"securityNumber": "3717923",
+				"cusip": "922908363",
+				"principal": "-$551.29",
+				"commission": "$0.00"
+			}
+		}, {
+			"transactionDate": "02/25/25",
+			"shortDescription": "SUPER MICRO COMPUTER INC",
+			"transactionAmount": "$482.49",
+			"symbol": "SMCI",
+			"transactionType": "Sell",
+			"quantity": 10.0,
+			"price": "$48.25",
+			"longDescription": "",
+			"tradeTransactionDetails": {
+				"description": "SUPER MICRO COMPUTER INC",
+				"settleDate": "02/26/25",
+				"securityNumber": "3436902",
+				"cusip": "86800U302",
+				"principal": "$482.50",
+				"commission": "$0.00",
+				"exchangeFee": "$0.01"
+			}
+		}, {
+			"transactionDate": "02/25/25",
+			"shortDescription": "Tfr JPMORGAN CHASE BAN, ...",
+			"transactionAmount": "$130.00",
+			"transactionType": "MoneyLink Transfer",
+			"longDescription": "Tfr JPMORGAN CHASE BAN, N/A"
+		}],
+	}
+}

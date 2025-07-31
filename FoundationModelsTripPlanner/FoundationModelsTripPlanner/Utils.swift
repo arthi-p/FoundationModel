@@ -43,26 +43,4 @@ struct ReadabilityRoundedRectangle: View {
     }
 }
 
-extension Kind {
-    var symbolName: String {
-        switch self {
-        case .sightseeing: "binoculars.fill"
-        case .foodAndDining: "fork.knife"
-        case .shopping: "bag.fill"
-        case .hotelAndLodging: "bed.double.fill"
-        }
-    }
-}
 
-extension FindPointsOfInterestTool {
-    static var categories: String {
-        Category.allCases.map {
-            $0.rawValue
-        }.joined(separator: ", ")
-    }
-    
-    struct Lookup: Identifiable {
-        let id = UUID()
-        let history: FindPointsOfInterestTool.Arguments
-    }
-}
