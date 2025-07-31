@@ -11,7 +11,6 @@ import FoundationModels
 
 @main
 struct FoundationModelsTripPlannerApp: App {
-    private var modelData = ModelData.shared
     
     var body: some Scene {
         WindowGroup {
@@ -26,8 +25,6 @@ struct FoundationModelsTripPlannerApp: App {
     }
     
 }
-
-
 
 import Foundation
 

@@ -89,6 +89,20 @@ struct ChatView: View {
                     "summarize this when user asks for report summary"
                     content
                 }
+                
+                /*
+                 """
+                                          You are a helpful financial assistant.
+
+                                          - When the user asks about their portfolio, stock holdings, gains/losses,history or specific stock performance, always use the `tradeTool` to fetch the relevant data.
+                                          - Wait for the tool’s response before answering the user.
+                                          - Your job is to interpret and summarize that data clearly for the user.
+                                          - Do not guess. Only answer after using the tool.
+                                          - Analyse market sentiment with reporttool and provide suggestion to user on sell or buy
+                                          """
+
+                 as well as market sentiment, research insights, and buy/sell suggestions.
+                 */
             }
     }
     
